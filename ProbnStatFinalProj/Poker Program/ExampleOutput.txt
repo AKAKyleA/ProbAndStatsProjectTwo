@@ -1,0 +1,60 @@
+Probability of nothing: 50.1305
+Probability of a pair: 42.2575
+Probability of two pairs: 4.713
+Probability of three of a kind: 2.145
+Probability of a straight: 0.3735
+Probability of a flush: 0.19499999999999998
+Probability of a full house: 0.1565
+Probability of four of a kind: 0.027
+Probability of a straight flush: 0.002
+Probability of a royal flush: 0.0
+
+This is Hand One:
+Heart 3
+Diamond Queen
+Heart 4
+Spade 6
+Heart 5
+
+Enter the card numbers you want to switch 1-5. If entering multiple numbers use a space to seperate and if switching none enter 0. :
+2
+New Hand One:
+Heart 3
+Club 2
+Heart 4
+Spade 6
+Heart 5
+------------------------------------------------
+This is Hand Two:
+Heart 9
+Spade Ace
+Diamond 9
+Heart 8
+Spade 2
+
+Enter the card numbers you want to switch 1-5. If entering multiple numbers use a space to seperate and if switching none enter 0. :
+4 5
+New Hand Two:
+Heart 9
+Spade Ace
+Diamond 9
+Diamond Jack
+Club Jack
+
+
+Hand One:
+Heart 3
+Club 2
+Heart 4
+Spade 6
+Heart 5
+----------------
+Hand Two:
+Heart 9
+Spade Ace
+Diamond 9
+Diamond Jack
+Club Jack
+
+Winner: Hand 1 Straight
+---------------------------------------------
